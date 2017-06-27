@@ -1,4 +1,10 @@
-Using the given files as a starting point, please create a directive that will display the progress to goal for an employee's sales in a given month. After you have created the directive, use it to display the employee's avatar, name and progress bar on the page. A mockup has been included in the assets/images/ directory as a reference for styling.  Feel free to introduce improvements to the style, such as rounded corners on avatars, padding adjustments, etc.
+Using the given files as a starting point, please create a directive that 
+will display the progress to goal for an employee's sales in a given month.
+ After you have created the directive, use it to display the employee's avatar, 
+ name and progress bar on the page. 
+ A mockup has been included in the assets/images/ directory as a reference for styling. 
+  Feel free to introduce improvements to the style, such as rounded corners on avatars, 
+  padding adjustments, etc.
 
 - Please allot a *maximum* of 4 hours to complete this task
 - You are free to use any tools you have at your disposal.
